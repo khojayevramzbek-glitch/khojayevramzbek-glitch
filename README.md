@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=70&lines=Salom!+I'm+Ramzbek+Khojayev;AI-Powered+Frontend+Developer;UI%2FUX+Designer+%26+Code+Architect;Building+the+Future+of+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&height=70&lines=Salom!+I'm+Ramzbek+Khojayev;AI+%26+Full-Stack+Software+Engineer;Creator+of+FilmFinder+AI+(@FilmAiFinderbot);Building+Next-Gen+Telegram+Bots+%26+Web+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
-
-  [![Portfolio Website](https://img.shields.io/badge/🌐_Live_Portfolio-khojayevramzbek--glitch.github.io/portfolio-7c3aed?style=for-the-badge&logoColor=white)](https://khojayevramzbek-glitch.github.io/portfolio/)
-  [![Email](https://img.shields.io/badge/✉️_Email-khojayevramzbek%40gmail.com-06b6d4?style=for-the-badge&logoColor=white)](mailto:khojayevramzbek@gmail.com)
-  [![Location](https://img.shields.io/badge/📍_Location-Khorezm%2C_Uzbekistan-ec4899?style=for-the-badge&logoColor=white)](#)
-
+  <a href="https://t.me/khojayev_ramz"><img src="https://img.shields.io/badge/Telegram-@khojayev__ramz-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://khojayevramzbek-glitch.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Website-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:khojayevramzbek@gmail.com"><img src="https://img.shields.io/badge/Email-khojayevramzbek%40gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Khorezm%2C_Uzbekistan_%F0%9F%87%BA%F0%9F%87%BF-ec4899?style=for-the-badge" />
 </div>
 
 ---
@@ -15,50 +14,67 @@
 ### 🚀 About Me
 
 ```typescript
-const developer = {
+const engineer = {
     name: "Ramzbek Khojayev",
-    role: "AI-Powered Frontend Developer & UI/UX Specialist",
+    role: "AI Software Engineer & Full-Stack Developer",
     location: "Khorezm, Uzbekistan 🇺🇿",
-    passions: ["Modern Web Technologies", "AI Integration", "3D Interactive UI", "Clean Code Architectures"],
-    currentFocus: "Building next-generation web applications with React, Vite & Tailwind CSS",
-    architectureStyle: "Bento-Grid layouts, Glassmorphism, Micro-animations & 60 FPS performance"
+    expertise: [
+        "High-Concurrency Telegram Bots (Aiogram 3.x, AsyncIO)",
+        "Multimodal Generative AI (Gemini 3.5 Flash, Groq LPU, Vision / Audio)",
+        "Modern Reactive Web Apps (React, TypeScript, Vite, Tailwind CSS)",
+        "High-Throughput Key Pooling & Fault-Tolerant Architectures"
+    ],
+    currentFocus: "Scaling AI-powered consumer bots and cloud microservices",
+    telegram: "@khojayev_ramz"
 };
 ```
 
 ---
 
-### 💻 Tech Stack & Tools
+### 🛠 Tech Stack & Core Competencies
 
 <div align="center">
+  <!-- Python & Backend -->
+  <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aiogram_3.x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AsyncIO-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite_WAL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_LPU_Inference-F55036?style=for-the-badge&logo=speedtest&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg_Vision-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render_Cloud-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 ---
 
-### ⚡ Featured Projects
+### ⚡ Featured Flagship Projects
 
-| Project | Tech Stack | Live Demo | Repository |
-| :--- | :--- | :--- | :--- |
-| 🌌 **Ultra Premium Portfolio v2.0** | HTML5, CSS3, JS, Canvas, Glassmorphism | [Live Demo 🚀](https://khojayevramzbek-glitch.github.io/portfolio/) | [Repo 📦](https://github.com/khojayevramzbek-glitch/portfolio) |
-| 🤖 **AI Chat Interface** | React, Vite, Tailwind CSS, Lucide Icons | [Live Demo 🚀](https://khojayevramzbek-glitch.github.io/ai-chat-interface/) | [Repo 📦](https://github.com/khojayevramzbek-glitch/ai-chat-interface) |
-| 📋 **Task Management App** | React, Vite, Kanban, LocalStorage | [Live Demo 🚀](https://khojayevramzbek-glitch.github.io/task-management-app/) | [Repo 📦](https://github.com/khojayevramzbek-glitch/task-management-app) |
+| Project | Highlights & Architecture | Links |
+| :--- | :--- | :--- |
+| 🎬 **FilmFinder AI Bot Cluster** | **Dual-Engine Multimodal Telegram Bot** (Gemini 3.5 Flash + Groq LPU). Recognizes movies from Reels/Shorts, screenshots, or plot texts. Features 144k req/day capacity, AI Movie Curator, Character Roleplay, and Live Admin Analytics. | [Live Bot 🤖](https://t.me/FilmAiFinderbot) • [Source 📦](https://github.com/khojayevramzbek-glitch/film-ai-finder-bot) |
+| 🌌 **Ultra Premium Portfolio v2.0** | Modern, responsive portfolio showcasing interactive 3D elements, canvas particle systems, glassmorphism, and smooth micro-animations. | [Live Demo 🚀](https://khojayevramzbek-glitch.github.io/portfolio/) • [Source 📦](https://github.com/khojayevramzbek-glitch/portfolio) |
+| 🤖 **AI Chat Interface** | Production-ready AI chat workspace built with React, Vite, and Tailwind CSS. Responsive layout with markdown streaming support. | [Live Demo 🚀](https://khojayevramzbek-glitch.github.io/ai-chat-interface/) • [Source 📦](https://github.com/khojayevramzbek-glitch/ai-chat-interface) |
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khojayevramzbek-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khojayevramzbek-glitch&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khojayevramzbek-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khojayevramzbek-glitch&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -68,5 +84,5 @@ const developer = {
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by <b>Ramzbek Khojayev</b> • Built for high performance & modern web standards</sub>
+  <sub>Crafted with passion by <b>Ramzbek Khojayev</b> • Open to innovative AI & bot engineering collaborations</sub>
 </div>
