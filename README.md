@@ -64,6 +64,7 @@ const engineer = {
 
 | Project | Highlights & Architecture | Links |
 | :--- | :--- | :--- |
+| 🎨 **UI / UX Knowledge Hub** | **Interactive Design & Engineering Learning Platform**. Built with React 18, TypeScript, Tailwind CSS, Radix UI & Shadcn. Covers 8 Core Design Principles, UX Laws, Tools & 6-Stage Lifecycle. | [Live Demo 🚀](https://khojayevramzbek-glitch.github.io/ui-ux-hub/) • [Source 📦](https://github.com/khojayevramzbek-glitch/ui-ux-hub) |
 | 🎬 **FilmFinder AI Bot Cluster** | **Dual-Engine Multimodal Telegram Bot** (Gemini 3.5 Flash + Groq LPU). Recognizes movies from Reels/Shorts, screenshots, or plot texts. Features 144k req/day capacity, AI Movie Curator, Character Roleplay, and Live Admin Analytics. | [Live Bot 🤖](https://t.me/FilmAiFinderbot) • [Source 📦](https://github.com/khojayevramzbek-glitch/film-ai-finder-bot) |
 | 🌌 **Ultra Premium Portfolio v2.0** | Modern, responsive portfolio showcasing interactive 3D elements, canvas particle systems, glassmorphism, and smooth micro-animations. | [Live Demo 🚀](https://khojayevramzbek-glitch.github.io/portfolio/) • [Source 📦](https://github.com/khojayevramzbek-glitch/portfolio) |
 | 🤖 **AI Chat Interface** | Production-ready AI chat workspace built with React, Vite, and Tailwind CSS. Responsive layout with markdown streaming support. | [Live Demo 🚀](https://khojayevramzbek-glitch.github.io/ai-chat-interface/) • [Source 📦](https://github.com/khojayevramzbek-glitch/ai-chat-interface) |
